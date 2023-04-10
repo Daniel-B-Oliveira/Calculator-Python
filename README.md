@@ -1,2 +1,2 @@
-# python_calculator
- caculator made with PySide6
+# calculator
+ A calculator made with PySide
